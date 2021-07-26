@@ -1,0 +1,30 @@
+#myCarousel {
+    background-color: rgb(96, 168, 236);
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarousel2 {
+    background-color: #b5d0d4;
+}
+
+#myCarousel2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
